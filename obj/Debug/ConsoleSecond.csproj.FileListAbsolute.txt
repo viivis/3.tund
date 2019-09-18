@@ -1,0 +1,7 @@
+C:\Users\Laptop\source\repos\ConsoleSecond\obj\Debug\ConsoleSecond.csprojAssemblyReference.cache
+C:\Users\Laptop\source\repos\ConsoleSecond\obj\Debug\ConsoleSecond.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\source\repos\ConsoleSecond\bin\Debug\ConsoleSecond.exe.config
+C:\Users\Laptop\source\repos\ConsoleSecond\bin\Debug\ConsoleSecond.exe
+C:\Users\Laptop\source\repos\ConsoleSecond\bin\Debug\ConsoleSecond.pdb
+C:\Users\Laptop\source\repos\ConsoleSecond\obj\Debug\ConsoleSecond.exe
+C:\Users\Laptop\source\repos\ConsoleSecond\obj\Debug\ConsoleSecond.pdb
